@@ -1,7 +1,7 @@
 # DevOps Journey 
 
 ## Who I Am
-Nícolas — former CELTA-certified English teacher and British Council examiner 
+Nícolas, former CELTA-certified English teacher and British Council examiner 
 ("Exceeds Standard" QA rating) transitioning into DevOps/SRE engineering.
 
 After 3+ years simplifying complex concepts for 100+ students across international 
@@ -11,7 +11,7 @@ automation, and cloud engineering.
 Native Portuguese | Fluent English (C2)
 
 ## The Roadmap
-- ✅ Linux fundamentals (LFS101 - 100% score)
+- ✅ Linux fundamentals (LFS101)
 - 🔄 Docker & containerization
 - ⏳ Kubernetes
 - ⏳ AWS (Solutions Architect Associate)
