@@ -19,7 +19,7 @@
 
 Nícolas — 3+ years as a CELTA-certified English teacher and British Council examiner ("Exceeds Standard" QA rating) at international institutions. Now applying that same brain for breaking down complex systems to infrastructure, automation, and cloud engineering.
 
-The transition started 4 weeks ago. This repo is the paper trail.
+The transition started on january, 2026. This repo is the paper trail.
 
 🇧🇷 Native Portuguese | 🇬🇧 Fluent English (C2)
 
