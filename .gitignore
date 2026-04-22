@@ -1,2 +1,7 @@
-devops-key.pem
 *.pem
+*.key
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
