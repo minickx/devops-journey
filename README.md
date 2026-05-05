@@ -36,8 +36,9 @@ The transition started on january, 2026. This repo is the paper trail.
 
 | Folder | What it covers |
 |--------|---------------|
-| [`linux/`](./linux/) | Bash scripting, fundamentals, daily exercises |
-| [`aws-project/`](./aws-project/) | Docker + EC2 + Ansible hands-on project |
+| [linux/](https://github.com/Sadnik/devops-journey/tree/master/linux) | Bash scripting, fundamentals, daily exercises |
+| [aws-project/](https://github.com/Sadnik/devops-journey/tree/master/aws-project) | Docker + EC2 + Ansible hands-on project |
+| [docker/](https://github.com/Sadnik/devops-journey/tree/master/docker) | Docker basics, commands, networking and multi-container lab |
 
 ---
 
