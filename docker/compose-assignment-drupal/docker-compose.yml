@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  drupal:
+    image: drupal:9
+    ports:
+      - '8080:80'
+    volumes:
+      - drupal_data:/var/www/html
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: drupal
+      POSTGRES_USER: drupal
+      POSTGRES_PASSWORD: drupal
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  drupal_data:
+  postgres_data:
+
+
